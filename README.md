@@ -58,7 +58,7 @@ Bypassing Ten Detection Methods](https://arxiv.org/pdf/1705.07263.pdf)
 ## 💻 Tech Stack
 
 - Programming Languages: Python, Java, C/C++.
-- Frameworks: PyTorch, TensorFlow, scikit-learn, OpenCV, Matplotlib, PySpark. [ADD LIBRARIES FOR FORCASTING]
+- Frameworks: PyTorch, TensorFlow, scikit-learn, OpenCV, Matplotlib, PySpark.
 - Databases: MongoDB, PostgreSQL, Neo4j.
 - Big Data: Hadoop, Hive, MapReduce.
 
