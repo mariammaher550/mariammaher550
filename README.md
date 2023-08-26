@@ -1,7 +1,7 @@
 
 ## 🚀 Projects
 
-- [Implementation of Multi-Reservoir Echo State Network (MRESN) with a Convolutional Neural Network (CNN) Feature Extraction Layer for Forcasting](https://github.com/mariammaher550/cnn-mresn)
+- [Implementation of Multi-Reservoir Echo State Network (MRESN) with a Convolutional Neural Network (CNN) Feature Extraction Layer for Forecasting](https://github.com/mariammaher550/cnn-mresn)
 - [Toxic Comment Classifier using Naive Bayes, Logistic Regression, CNN, LSTM and BERT](https://github.com/MohamedHamdy28/Toxic-comments-classifier)
 - [Object Detection using Faster RCNN and YOLO](https://github.com/mariammaher550/lemons-vs-apples-object-detection)
 - [Object Segmentation using Faster RCNN and YOLO](https://github.com/mariammaher550/lemons-vs-apples-segmentation)
