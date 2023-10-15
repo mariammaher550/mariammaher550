@@ -13,7 +13,7 @@ For AV using Adversarial Attacks](https://drive.google.com/file/d/1PzZPk0wd87wO8
 
 ## 📚 Papers Read
 
-I'm passionate about learning and have read some interesting papers in various AI domains. Check out my list of papers:
+I'm passionate about learning and have read some papers in various AI domains. Here's a list of papers that I found particulary interesting:
 
 - On Adversarial Attacks and Robustness.
     - [Adversarial Examples are not Bugs, they are Features](https://proceedings.neurips.cc/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
